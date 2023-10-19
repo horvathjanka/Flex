@@ -1,0 +1,19 @@
+div {
+    display: inline;
+}
+
+
+.item{
+    width: 50px;
+    height: 50 px;
+}
+
+.green{
+    background-color: green;
+}
+.yellow{
+    background-color: yellow;
+}
+.purple{
+    background-color: purple;
+}
