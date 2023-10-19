@@ -1,5 +1,6 @@
 .container {
     display: flex;
+}
 
 .item{
     width: 50 px;
